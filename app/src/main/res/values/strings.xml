@@ -1,7 +1,8 @@
 <resources>
-    <string name="app_name">Tetris</string>
+    <string name="app_name">Tego</string>
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
     <string name="play_button">Play</string>
     <string name="plain_name">Created by Hannes Simonsson</string>
+    <string name="description">Animated logotype</string>
 </resources>

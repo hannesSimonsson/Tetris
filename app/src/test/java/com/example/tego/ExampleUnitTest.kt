@@ -1,4 +1,4 @@
-package com.example.tetris
+package com.example.tego
 
 import org.junit.Test
 

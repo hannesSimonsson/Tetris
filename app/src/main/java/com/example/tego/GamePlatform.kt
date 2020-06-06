@@ -1,4 +1,4 @@
-package com.example.tetris
+package com.example.tego
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -10,3 +10,4 @@ class GamePlatform : AppCompatActivity() {
         setContentView(R.layout.activity_game_platform)
     }
 }
+
